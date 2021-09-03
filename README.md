@@ -1,3 +1,7 @@
+# First test website with React app.
+
+This is my First web app using React app. It is simple dynamic and responsive Website. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
